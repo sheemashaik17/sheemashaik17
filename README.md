@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # Hi there! 👋 I'm Sheema
@@ -7,18 +6,17 @@
 
 ### 💻 Computer Science & Engineering (AI & ML) Undergraduate
 
-### Software Engineering • Web Development • AI • Data Analytics
+### Exploring Software Development • Web Development • AI • Data Analytics
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Software+Developer;Web+Developer;AI+%26+Machine+Learning;Data+Analytics;Java+%7C+Python+%7C+SQL;Always+Learning+New+Technologies" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Student;Software+Developer;Web+Developer;AI+%26+Machine+Learning;Data+Analytics;Java+%7C+Python+%7C+SQL;Always+Learning+New+Technologies" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sheemashaik17&style=for-the-badge&color=blueviolet"/>
   <img src="https://img.shields.io/github/followers/sheemashaik17?style=for-the-badge&color=orange"/>
-  <img src="https://img.shields.io/github/stars/sheemashaik17?style=for-the-badge&color=yellow"/>
 </p>
 
 </div>
@@ -27,17 +25,17 @@
 
 # 👩‍💻 About Me
 
-I'm a **Computer Science & Engineering (AI & ML)** undergraduate passionate about exploring different areas of technology and creating practical solutions through software.
+Hi! I'm **Sheema**, a **Computer Science & Engineering (AI & ML) undergraduate** passionate about learning, building, and exploring technology.
 
-My interests span **Software Development, Web Development, Artificial Intelligence, Machine Learning, Data Analytics, and Database Management**. I enjoy learning new technologies, strengthening my problem-solving skills, and building projects that transform ideas into meaningful applications.
+I enjoy exploring different areas of computer science, including **Software Development, Web Development, Artificial Intelligence, Machine Learning, Data Analytics, and Database Management**. Through academic learning and hands-on projects, I'm continuously strengthening my technical and problem-solving skills.
 
-I'm currently enhancing my knowledge in **Java, Python, SQL, Data Structures & Algorithms, Full Stack Development, and Machine Learning**, while continuously working on hands-on projects and expanding my technical expertise.
+Currently, I'm learning **Java, Python, SQL, Data Structures & Algorithms, Full Stack Development, and Machine Learning** while building projects that help me gain practical experience.
 
 - 🌱 Currently learning **Java, SQL, DSA, Full Stack Development & Machine Learning**
-- 💻 Passionate about **Software Engineering & Web Development**
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Data Analytics**
+- 💻 Exploring **Software Development & Web Development**
+- 🤖 Learning **Artificial Intelligence, Machine Learning & Data Analytics**
 - 🚀 Open to internships, collaborations, and open-source contributions
-- 📚 Committed to continuous learning and professional growth
+- 📚 Passionate about continuous learning and personal growth
 
 ---
 
@@ -46,25 +44,25 @@ I'm currently enhancing my knowledge in **Java, Python, SQL, Data Structures & A
 ## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,javascript"/>
 </p>
 
 ## 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+<img src="https://skillicons.dev/icons?i=html,css,js,flask"/>
 </p>
 
 ## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ## ⚙️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 <p>
@@ -76,7 +74,7 @@ I'm currently enhancing my knowledge in **Java, Python, SQL, Data Structures & A
 
 # 📚 Core Concepts
 
-- Object-Oriented Programming
+- Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - DBMS
 - SQL
@@ -93,11 +91,11 @@ I'm currently enhancing my knowledge in **Java, Python, SQL, Data Structures & A
 
 ## 🎯 Interview Questions Predictor Using Machine Learning
 
-✔ Predicts interview questions based on user skills and job roles
+✔ Predicts interview questions based on user skills and job roles.
 
-✔ Machine Learning powered recommendation system
+✔ Uses Machine Learning to recommend relevant interview questions.
 
-✔ AI-assisted question generation
+✔ Built using Flask with an interactive web interface.
 
 **Tech Stack:** Python • Flask • Scikit-learn • HTML • CSS
 
@@ -105,11 +103,9 @@ I'm currently enhancing my knowledge in **Java, Python, SQL, Data Structures & A
 
 ## 💳 Credit Card Fraud Detection
 
-✔ Fraud detection using Machine Learning
+✔ Detects fraudulent transactions using Machine Learning.
 
-✔ Data preprocessing and feature engineering
-
-✔ Logistic Regression model
+✔ Includes data preprocessing, feature scaling, and model evaluation.
 
 **Tech Stack:** Python • Pandas • NumPy • Scikit-learn
 
@@ -117,11 +113,9 @@ I'm currently enhancing my knowledge in **Java, Python, SQL, Data Structures & A
 
 ## 🏥 Hospital Management System
 
-✔ Responsive hospital management website
+✔ Responsive hospital management website.
 
-✔ User-friendly interface
-
-✔ Appointment management
+✔ User-friendly interface for managing hospital information.
 
 **Tech Stack:** HTML • CSS • JavaScript
 
@@ -143,7 +137,7 @@ I'm currently enhancing my knowledge in **Java, Python, SQL, Data Structures & A
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sheemashaik17&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheemashaik17&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -179,9 +173,8 @@ I'm currently enhancing my knowledge in **Java, Python, SQL, Data Structures & A
 
 ## 💡 Quote
 
-### *"Always learning. Always building. Always evolving."*
+### *"Learning today. Building for tomorrow."*
 
 ⭐ Thanks for visiting my profile!
 
 </div>
-```

@@ -1,92 +1,174 @@
 <div align="center">
 
-# Hi, I'm Sheema 👋
+# Hi there! 👋 I'm Sheema
 
-<img src="coding-girl.png" width="280" alt="Profile Banner"/>
+<img src="coding-girl.png" width="320" alt="Coding Girl"/>
 
-### Computer Science & Engineering (AI & ML) Undergraduate
+### 💻 Computer Science & Engineering (AI & ML) Undergraduate
+
+### Software Development • Web Development • AI • Data Analytics
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Software+Developer;Web+Developer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+SQL" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Software+Developer;Web+Developer;Artificial+Intelligence;Machine+Learning;Data+Analytics;Java+%7C+Python+%7C+SQL;Always+Learning+New+Technologies" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sheema-shaik-4845a4348/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sheemashaik194@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sheemashaik17&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/followers/sheemashaik17?style=for-the-badge&color=orange"/>
 </p>
 
 </div>
 
 ---
 
-## About Me
+# 🚀 About Me
 
-I'm a Computer Science & Engineering (AI & ML) undergraduate with a focus on **software development, machine learning, and full-stack web development**. I enjoy building practical, data-driven applications and am continually strengthening my skills through hands-on projects.
+I'm a **Computer Science & Engineering (AI & ML)** undergraduate passionate about learning, building, and exploring technology.
 
-- 🔭 Currently deepening my skills in **Java, SQL, Data Structures & Algorithms, and Full-Stack Development**
-- 🤖 Exploring applied **Machine Learning** and **Data Analytics**
-- 🤝 Open to internships, collaborations, and open-source contributions
+My interests span **Software Development, Web Development, Artificial Intelligence, Machine Learning, Data Analytics, and Database Management**.
 
----
-
-## Tech Stack
-
-**Languages:** 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,javascript" height="32"/>
-
-**Web Development:** 
-<img src="https://skillicons.dev/icons?i=html,css,js,flask" height="32"/>
-
-**Database:** 
-<img src="https://skillicons.dev/icons?i=mysql" height="32"/>
-
-**Tools:** 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="32"/>
-
-**Core Concepts:** Object-Oriented Programming • Data Structures & Algorithms • DBMS • Operating Systems • Computer Networks • Software Engineering • Machine Learning
+- 🌱 Currently learning **Java, SQL, Data Structures & Algorithms, Full Stack Development & Machine Learning**
+- 💻 Interested in **Software Development & Web Development**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning & Data Analytics**
+- 🚀 Open to internships, collaborations, and open-source contributions
+- 🎯 Goal: Build innovative software solutions while continuously improving my technical and problem-solving skills
 
 ---
 
-## Featured Projects
+# 🛠️ Tech Stack
 
-### 🎯 [Interview Questions Predictor](#)
-A machine learning-based web app that recommends interview questions tailored to a user's skills and target job role.
-- Built an ML model to generate role-specific question recommendations
-- Developed an interactive web interface using Flask
-- **Stack:** Python • Flask • Scikit-learn • HTML • CSS
+### 👨‍💻 Programming Languages
 
-### 💳 [Credit Card Fraud Detection](#)
-A classification model to identify fraudulent transactions in financial data.
-- Performed data preprocessing, feature scaling, and class-imbalance handling
-- Evaluated model performance using precision, recall, and F1-score
-- **Stack:** Python • Pandas • NumPy • Scikit-learn
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🏥 [Hospital Management System](#)
-A responsive web application for managing hospital records and operations.
-- Designed a clean, user-friendly interface for hospital staff and admins
-- **Stack:** HTML • CSS • JavaScript
+### 🌐 Web Development
 
-> Replace the `#` links above with your actual GitHub repo URLs.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 📚 Libraries & Frameworks
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## GitHub Stats
+# 📚 Core Concepts
+
+- 💡 Object-Oriented Programming
+- 🧩 Data Structures & Algorithms
+- 🗄️ Database Management Systems
+- 💾 SQL
+- 🖥️ Operating Systems
+- 🌐 Computer Networks
+- ⚙️ Software Engineering
+- 🤖 Artificial Intelligence
+- 📈 Machine Learning
+- 🌍 Web Development
+
+---
+
+# 🚀 Featured Projects
+
+## 🎯 Interview Questions Predictor Using Machine Learning
+
+An AI-powered web application that predicts interview questions based on users' skills and selected job roles.
+
+### Features
+
+- 🤖 Machine Learning recommendation system
+- 💡 AI-assisted interview question generation
+- 🌐 Interactive web interface
+- 📊 Personalized interview preparation
+
+**Tech Stack:** Python • Flask • Scikit-learn • HTML • CSS
+
+---
+
+## 💳 Credit Card Fraud Detection
+
+Developed a Machine Learning model to identify fraudulent credit card transactions.
+
+### Features
+
+- 📊 Data preprocessing
+- 📈 Feature engineering
+- 🤖 Logistic Regression
+- ✅ Fraud prediction
+
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn
+
+---
+
+## 🏥 Hospital Management System
+
+Responsive web application for managing hospital information and appointments.
+
+### Features
+
+- 🖥️ Responsive design
+- 📅 Appointment management
+- 👨‍⚕️ User-friendly interface
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+# 🔥 Streak Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheemashaik17&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheemashaik17&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sheemashaik17&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheemashaik17&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sheema-shaik">
+<img src="https://img.shields.io/badge/LinkedIn-Sheema_Shaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sheemashaik194@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-*"Learning today. Building for tomorrow."*
+## 💡 Quote
+
+### *"Always learning. Always building. Always evolving."*
+
+⭐ **Thanks for visiting my profile!**
 
 </div>

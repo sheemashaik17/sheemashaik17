@@ -25,16 +25,17 @@
 
 # 🚀 About Me
 
-I'm a **Computer Science & Engineering (AI & ML)** undergraduate passionate about learning, building, and exploring technology.
+I'm a **Computer Science & Engineering (AI & ML)** undergraduate passionate about exploring different areas of technology and creating practical solutions through software.
 
-My interests span **Software Development, Web Development, Artificial Intelligence, Machine Learning, Data Analytics, and Database Management**.
+My interests span **Software Development, Web Development, Artificial Intelligence, Machine Learning, Data Analytics, and Database Management**. I enjoy learning new technologies, strengthening my problem-solving skills, and building projects that transform ideas into meaningful applications.
 
-- 🌱 Currently learning **Java, SQL, Data Structures & Algorithms, Full Stack Development & Machine Learning**
-- 💻 Interested in **Software Development & Web Development**
+I'm currently enhancing my knowledge in **Java, Python, SQL, Data Structures & Algorithms, Full Stack Development, and Machine Learning**, while continuously working on hands-on projects and expanding my technical expertise.
+
+- 🌱 Currently learning **Java, SQL, DSA, Full Stack Development & Machine Learning**
+- 💻 Passionate about **Software Engineering & Web Development**
 - 🤖 Exploring **Artificial Intelligence, Machine Learning & Data Analytics**
 - 🚀 Open to internships, collaborations, and open-source contributions
-- 🎯 Goal: Build innovative software solutions while continuously improving my technical and problem-solving skills
-
+- 📚 Committed to continuous learning and professional growth
 ---
 
 # 🛠️ Tech Stack

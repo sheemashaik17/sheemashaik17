@@ -1,175 +1,92 @@
 <div align="center">
 
-# Hi there! 👋 I'm Sheema
+# Hi, I'm Sheema 👋
 
-<img src="coding-girl.png" width="320" alt="Coding Girl"/>
+<img src="coding-girl.png" width="280" alt="Profile Banner"/>
 
-### 💻 Computer Science & Engineering (AI & ML) Undergraduate
-
-### Software Development • Web Development • AI • Data Analytics
+### Computer Science & Engineering (AI & ML) Undergraduate
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Software+Developer;Web+Developer;AI+%26+Machine+Learning;Data+Analytics;Java+%7C+Python+%7C+SQL;Always+Learning+New+Technologies" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Software+Developer;Web+Developer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+SQL" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheemashaik17&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/sheemashaik17?style=for-the-badge&color=orange"/>
+  <a href="https://www.linkedin.com/in/sheema-shaik-4845a4348/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sheemashaik194@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## About Me
 
-I'm a **Computer Science & Engineering (AI & ML)** undergraduate passionate about learning, building, and exploring different areas of technology.
+I'm a Computer Science & Engineering (AI & ML) undergraduate with a focus on **software development, machine learning, and full-stack web development**. I enjoy building practical, data-driven applications and am continually strengthening my skills through hands-on projects.
 
-My interests include **Software Development, Web Development, Artificial Intelligence, Machine Learning, Data Analytics, and Database Management**. I enjoy transforming ideas into practical projects while continuously improving my technical and problem-solving skills.
-
-- 🌱 Currently learning **Java, SQL, DSA, Full Stack Development & Machine Learning**
-- 💻 Exploring **Software Development & Web Development**
-- 🤖 Learning **Artificial Intelligence, Machine Learning & Data Analytics**
-- 🚀 Open to internships, collaborations, and open-source contributions
-- 📚 Passionate about continuous learning and growth
+- 🔭 Currently deepening my skills in **Java, SQL, Data Structures & Algorithms, and Full-Stack Development**
+- 🤖 Exploring applied **Machine Learning** and **Data Analytics**
+- 🤝 Open to internships, collaborations, and open-source contributions
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
-<table>
-<tr>
-<td align="center" width="180">
+**Languages:** 
+<img src="https://skillicons.dev/icons?i=python,java,mysql,javascript" height="32"/>
 
-### 👨‍💻 Languages
+**Web Development:** 
+<img src="https://skillicons.dev/icons?i=html,css,js,flask" height="32"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,mysql"/>
+**Database:** 
+<img src="https://skillicons.dev/icons?i=mysql" height="32"/>
 
-</td>
+**Tools:** 
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="32"/>
 
-<td align="center" width="180">
-
-### 🌐 Web
-
-<img src="https://skillicons.dev/icons?i=html,css,flask"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</td>
-
-<td align="center">
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" colspan="2">
-
-### 🎨 Other Tools
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-
-</td>
-</tr>
-</table>
+**Core Concepts:** Object-Oriented Programming • Data Structures & Algorithms • DBMS • Operating Systems • Computer Networks • Software Engineering • Machine Learning
 
 ---
 
-# 📚 Core Concepts
+## Featured Projects
 
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- DBMS
-- SQL
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- Machine Learning
-- Artificial Intelligence
-- Web Development
+### 🎯 [Interview Questions Predictor](#)
+A machine learning-based web app that recommends interview questions tailored to a user's skills and target job role.
+- Built an ML model to generate role-specific question recommendations
+- Developed an interactive web interface using Flask
+- **Stack:** Python • Flask • Scikit-learn • HTML • CSS
 
----
+### 💳 [Credit Card Fraud Detection](#)
+A classification model to identify fraudulent transactions in financial data.
+- Performed data preprocessing, feature scaling, and class-imbalance handling
+- Evaluated model performance using precision, recall, and F1-score
+- **Stack:** Python • Pandas • NumPy • Scikit-learn
 
-# 🚀 Featured Projects
+### 🏥 [Hospital Management System](#)
+A responsive web application for managing hospital records and operations.
+- Designed a clean, user-friendly interface for hospital staff and admins
+- **Stack:** HTML • CSS • JavaScript
 
-## 🎯 Interview Questions Predictor Using Machine Learning
-
-- Predicts interview questions based on user skills and job roles.
-- Machine Learning-powered recommendation system.
-- AI-assisted question generation.
-
-**Tech Stack:** Python • Flask • Scikit-learn • HTML • CSS
+> Replace the `#` links above with your actual GitHub repo URLs.
 
 ---
 
-## 💳 Credit Card Fraud Detection
-
-- Detects fraudulent transactions using Machine Learning.
-- Includes preprocessing, feature engineering, and Logistic Regression.
-
-**Tech Stack:** Python • Pandas • NumPy • Scikit-learn
-
----
-
-## 🏥 Hospital Management System
-
-- Responsive web application for hospital management.
-- User-friendly interface with appointment management.
-
-**Tech Stack:** HTML • CSS • JavaScript
-
----
-
-# 📈 Contribution Graph
+## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheemashaik17&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sheema-shaik">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sheemashaik194@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheemashaik17&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheemashaik17&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <div align="center">
 
-## 💡 Quote
-
-### *"Always learning. Always building. Always evolving."*
-
-⭐ Thanks for visiting my profile!
+*"Learning today. Building for tomorrow."*
 
 </div>

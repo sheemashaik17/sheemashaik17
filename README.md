@@ -152,7 +152,7 @@ Responsive web application for managing hospital information and appointments.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sheema-shaik">
+<a href="https://www.linkedin.com/in/sheema-shaik-4845a4348/">
 <img src="https://img.shields.io/badge/LinkedIn-Sheema_Shaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
